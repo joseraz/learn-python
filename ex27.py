@@ -1,0 +1,17 @@
+print("\nThis section is for 'Not And' .")
+print(" not(True  and False): " + str(not(True and False)))
+print(" not(True  and True ): " + str(not(True and True)))
+print(" not(False and True ): " + str(not(False and True)))
+print(" not(False and False): " + str(not(False and False)))
+
+print("\nThis section is for '!=' .")
+print(" 1 != 0: " + str(1!=0))
+print(" 1 != 1: " + str(1!=1))
+print(" 0 != 1: " + str(0!=1))
+print(" 0 != 0: " + str(0!=0))
+
+print("\nThis section is for '==' .")
+print(" 1 == 0: " + str(1==0))
+print(" 1 == 1: " + str(1==1))
+print(" 0 == 1: " + str(0==1))
+print(" 0 == 0: " + str(0==0))
